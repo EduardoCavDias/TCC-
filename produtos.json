@@ -1,0 +1,42 @@
+[
+  {
+    "nome": "Elgato Cam Link 4K",
+    "preco": 999.90,
+    "desconto": 5,
+    "parcelas": "10x de 99,99",
+    "preco_parcelado": 99.99,
+    "preco_original": 1049.90,
+    "descricao": "Dispositivo de captura de vídeo 4K para conectar câmeras DSLR ou mirrorless ao PC.",
+    "imagem_principal": "imagens/captura/elgato_cam_link_4k.jpg",
+    "galeria": [
+      "imagens/captura/elgato_cam_link_4k_1.jpg",
+      "imagens/captura/elgato_cam_link_4k_2.jpg"
+    ],
+    "categoria": "captura,oferta",
+    "estoque": 25,
+    "marca": "Elgato",
+    "modelo": "Cam Link 4K",
+    "peso": "0.1 kg",
+    "destaque": 1
+  },
+  {
+    "nome": "AVerMedia Live Gamer ULTRA 2.1 (GC553G2)",
+    "preco": 1299.90,
+    "desconto": 0,
+    "parcelas": "12x de 108,33",
+    "preco_parcelado": 108.33,
+    "preco_original": null,
+    "descricao": "Placa de captura interna para streaming e gravação em 4K com baixa latência.",
+    "imagem_principal": "imagens/captura/avermedia_live_gamer_ultra_2_1.jpg",
+    "galeria": [
+      "imagens/captura/avermedia_live_gamer_ultra_2_1_1.jpg",
+      "imagens/captura/avermedia_live_gamer_ultra_2_1_2.jpg"
+    ],
+    "categoria": "captura",
+    "estoque": 15,
+    "marca": "AVerMedia",
+    "modelo": "Live Gamer ULTRA 2.1",
+    "peso": "0.15 kg",
+    "destaque": 0
+  }
+]
